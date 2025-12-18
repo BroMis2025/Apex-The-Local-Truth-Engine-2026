@@ -70,19 +70,20 @@ Ugly data is often the most honest data.
     /apex
     ├── /Backend_Apex
     │   ├── apex.gs          # Core Apps Script logic
-    │   ├── api              # Getting Setup
+    │   ├── looker              # Getting Setup
     │   └── videos           # Walkthrough of setup
     │
     ├── /docs
     │   ├── ENGINEERING_NOTE.md
     │   ├── HOW_IT_WORKS.md
     │   ├── INTERPRETING_RESULTS.md
-    │   ├── RED_TEAM_TESTS.md
     │   └── CONTRIBUTING.md
     │
     ├── /examples
-    │   ├── sample_keywords.csv
-    │   └── sample_results.csv
+    │   ├── keyword_reports.pdf
+    │   └── grid_testing_results.csv
+    │
+    └── Setup_video
     │
     └── README.md
     
