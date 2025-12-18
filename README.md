@@ -1,4 +1,5 @@
 **Measured local visibility. No modeling. No smoothing. No guessing.**
+
 <img width="1288" height="843" alt="APEX 2026 grid" src="https://github.com/user-attachments/assets/a60d8d12-c638-42d2-966b-1268ecf95b61" />
 
 Apex is a **100% free, open-source local rank measurement tool** designed to answer one question:
