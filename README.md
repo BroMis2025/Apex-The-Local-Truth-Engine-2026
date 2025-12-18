@@ -19,13 +19,9 @@ Most local rank tools **model visibility**.
 They:
 
 *   interpolate grids
-    
 *   reuse responses
-    
 *   smooth results
-    
 *   collapse locations
-    
 *   hide dead zones
     
 
@@ -36,7 +32,6 @@ The problem is:
 > **We don’t.**
 
 We make real decisions — SEO, spend, categories, links — based on data that _looks_ like ground truth.
-
 Apex exists to be a **measurement instrument**, not a reassurance machine.
 
 * * *
@@ -60,23 +55,10 @@ That’s not an error. That’s the data.
 ## 🔬 What Apex Measures
 
 *   Google **Search** local results (not Maps API)
-    
 *   Location-specific queries at **exact coordinates**
-    
 *   Mobile-style search context
-    
 *   Real volatility, suppression, and dead zones
     
-
-Apex does **not**:
-
-*   infer missing points
-    
-*   average neighbors
-    
-*   “fix” ugly grids
-    
-*   normalize output
     
 
 Ugly data is often the most honest data.
@@ -86,11 +68,10 @@ Ugly data is often the most honest data.
 ## 📦 What’s In This Repo
 
     /apex
-    ├── /apps-script
+    ├── /Backend_Apex
     │   ├── apex.gs          # Core Apps Script logic
-    │   ├── grid.gs          # Grid generation
-    │   ├── serp.gs          # SERP request handling
-    │   └── helpers.gs       # Distance, parsing, utils
+    │   ├── api              # Getting Setup
+    │   └── videos           # Walkthrough of setup
     │
     ├── /docs
     │   ├── ENGINEERING_NOTE.md
