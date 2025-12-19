@@ -1,7 +1,7 @@
 # The Dashboard Deception  
 ### A Forensic Analysis of Local SEO Measurement Failure  
 *(With Evidence, Tools, and Receipts)*
-
+The APEX Course 2026 --> https://brockmisner.podia.com/the-apex-local-seo-blueprint-geo-llm-seo-2025
 ---
 
 ## ⚠️ Read This Before Trusting Any Local SEO Report
