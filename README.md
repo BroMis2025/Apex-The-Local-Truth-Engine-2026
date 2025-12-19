@@ -6,7 +6,7 @@
 
 ## ⚠️ Read This Before Trusting Any Local SEO Report
 
-If you are using **Any Ulocal keyword map grid tracking system**, your data contains **Simulation Bias**.
+If you are using **Any local keyword map grid tracking system**, your data contains **Simulation Bias**.
 
 These tools are not broken.  
 They are not misleading you intentionally.  
