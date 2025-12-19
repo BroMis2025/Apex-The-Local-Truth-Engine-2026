@@ -41,7 +41,7 @@ The problem is **what the industry assumes those tools represent**.
 
 ## 📄 Forensic Evidence: Grid Tools vs Physical Android Reality
 
-I tested **50+ commercial local keywords** across multiple verticals using:
+I tested **50+ local keywords plus lat, long** across multiple verticals using:
 
 - Industry-standard UULE grid tools  
 - A **physical, rooted Android lab** passing **AAPI integrity**
@@ -55,13 +55,19 @@ I tested **50+ commercial local keywords** across multiple verticals using:
 - Poor “coverage”
 - Apparent loss of visibility
 
+<img width="488" height="493" alt="image" src="https://github.com/user-attachments/assets/511b7579-41ed-4388-98d6-9cdf0589f858" />
+
+
 ### What Physical Android Devices Showed
 - Consistent **Top 1–3 (Green)**
 - Stable mobile Local Pack inclusion
 - Real tap-to-call visibility
 
-📥 **Download the full forensic report:**  
-`Forensic_Report_LocalFalcon_vs_Physical_Android.pdf`
+  <img width="1054" height="737" alt="image" src="https://github.com/user-attachments/assets/e8c2ee4f-ddc9-43c9-96a8-5297463a3070" />
+
+
+📥 **Watch the full VIDEO forensic report:**  
+COMING SOON!
 
 The report includes:
 - Timestamped SERP captures  
@@ -81,7 +87,7 @@ This repository includes the **baseline tools** used to detect the Reality Gap.
 
 ### 🔧 Included Tools
 
-- **Google_Apps_Script_SerpApi_Mobile_Proxy.js**  
+- **Google_Apps_Script_Mobile_Proxy.js**  
   Query live **mobile SERPs** without UULE snapping, zoom bias, or desktop contamination.
 
 - **Looker_Studio_Reality_Template**  
