@@ -62,6 +62,7 @@ I tested **50+ local keywords plus lat, long** across multiple verticals using:
 - Consistent **Top 1–3 (Green)**
 - Stable mobile Local Pack inclusion
 - Real tap-to-call visibility
+- https://lookerstudio.google.com/reporting/06d90828-687d-4c87-9ff5-c8b07fc2757b
 
   <img width="1054" height="737" alt="image" src="https://github.com/user-attachments/assets/e8c2ee4f-ddc9-43c9-96a8-5297463a3070" />
 
