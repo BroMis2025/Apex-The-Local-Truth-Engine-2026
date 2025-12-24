@@ -54,6 +54,7 @@ I tested **50+ local keywords plus lat, long** across multiple verticals using:
 - Average rankings: **20+ (Red)**
 - Poor “coverage”
 - Apparent loss of visibility
+- https://docs.google.com/spreadsheets/d/17_IiotMHeTZSDpxegP3x7Y0wjLT-8gxkMqOHkhKiG5E/edit?usp=sharing
 
 <img width="488" height="493" alt="image" src="https://github.com/user-attachments/assets/511b7579-41ed-4388-98d6-9cdf0589f858" />
 
@@ -63,6 +64,7 @@ I tested **50+ local keywords plus lat, long** across multiple verticals using:
 - Stable mobile Local Pack inclusion
 - Real tap-to-call visibility
 - https://lookerstudio.google.com/reporting/06d90828-687d-4c87-9ff5-c8b07fc2757b
+  
 
   <img width="1054" height="737" alt="image" src="https://github.com/user-attachments/assets/e8c2ee4f-ddc9-43c9-96a8-5297463a3070" />
 
@@ -88,8 +90,6 @@ This repository includes the **baseline tools** used to detect the Reality Gap.
 
 ### 🔧 Included Tools
 
-- **Google_Apps_Script_Mobile_Proxy.js**  
-  Query live **mobile SERPs** without UULE snapping, zoom bias, or desktop contamination.
 
 - **Looker_Studio_Reality_Template**  
   Visualize what **real users actually see**, not simulated grid points.
